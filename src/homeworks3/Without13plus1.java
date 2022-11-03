@@ -3,6 +3,7 @@ package homeworks3;
 public class Without13plus1 {
 
 	public static void main(String[] args) {
+		//edited by oguz
 		// Bir dizide bulunan 13 ve 13 ten sonra gelen sayıları eklemeden
 		// toplam sonucu yazan program.
 		
